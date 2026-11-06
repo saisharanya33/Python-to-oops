@@ -1,0 +1,13 @@
+class laptop:
+    name="vivo"
+    colour="grey"
+    def text(self):
+        print("texting")
+    def watch(self):
+        print("screen")
+    def sound(self):
+        print("making sound")
+l=laptop()
+l.text()
+l.watch()
+l.sound()
